@@ -1,0 +1,2 @@
+# learEquationSolver
+solve leaner equation
